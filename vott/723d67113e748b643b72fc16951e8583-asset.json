@@ -1,0 +1,92 @@
+{
+    "asset": {
+        "id": "723d67113e748b643b72fc16951e8583",
+        "format": "466667",
+        "state": 2,
+        "type": 3,
+        "name": "ItemMov1.mp4#t=0.466667",
+        "path": "file:/Users/kazukinoto/vinxlab/TF2_ObjectDetection/vott/ItemMov1.mp4#t=0.466667",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "2abbf8cbcc622dcf08771074d49d4591",
+            "name": "ItemMov1.mp4",
+            "path": "file:/Users/kazukinoto/vinxlab/TF2_ObjectDetection/vott/ItemMov1.mp4",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 0.466667
+    },
+    "regions": [
+        {
+            "id": "yRyBO9uED",
+            "type": "RECTANGLE",
+            "tags": [
+                "Yogulete"
+            ],
+            "boundingBox": {
+                "height": 118.7536560960591,
+                "width": 64.12915512465374,
+                "left": 695.7081024930748,
+                "top": 692.6231527093596
+            },
+            "points": [
+                {
+                    "x": 695.7081024930748,
+                    "y": 692.6231527093596
+                },
+                {
+                    "x": 759.8372576177285,
+                    "y": 692.6231527093596
+                },
+                {
+                    "x": 759.8372576177285,
+                    "y": 811.3768088054187
+                },
+                {
+                    "x": 695.7081024930748,
+                    "y": 811.3768088054187
+                }
+            ]
+        },
+        {
+            "id": "kpWCLGxGA",
+            "type": "RECTANGLE",
+            "tags": [
+                "Hilemon"
+            ],
+            "boundingBox": {
+                "height": 77.25196274630541,
+                "width": 55.86045706371191,
+                "left": 758.5231994459833,
+                "top": 751.5661560960591
+            },
+            "points": [
+                {
+                    "x": 758.5231994459833,
+                    "y": 751.5661560960591
+                },
+                {
+                    "x": 814.3836565096952,
+                    "y": 751.5661560960591
+                },
+                {
+                    "x": 814.3836565096952,
+                    "y": 828.8181188423645
+                },
+                {
+                    "x": 758.5231994459833,
+                    "y": 828.8181188423645
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
