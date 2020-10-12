@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+01_Annotation/vott-2.2.0-darwin.dmg
