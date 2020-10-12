@@ -130,3 +130,5 @@ dmypy.json
 .DS_Store
 01_Annotation/vott-2.2.0-darwin.dmg
 01_Annotation/vott-2.2.0-win32.exe
+vott-2.2.0-darwin.dmg
+vott-2.2.0-win32.exe

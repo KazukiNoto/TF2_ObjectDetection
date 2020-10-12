@@ -10,9 +10,11 @@ https://github.com/Microsoft/VoTT/releases
 
 
 ## Protocol buffersのセットアップ後
-git clone --depth 1 https://github.com/tensorflow/models
-cd models/research
-/usr/local/bin/protoc object_detection/protos/*.proto --python_out=.
+> git clone --depth 1 https://github.com/tensorflow/models
+
+> cd models/research
+
+> /usr/local/bin/protoc object_detection/protos/*.proto --python_out=.
 
 ## 必要なライブラリのセットアップ
 models/researchディレクトリで実施
