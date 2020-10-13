@@ -5,3 +5,4 @@ RUN pip install --upgrade pip
 # ----- Environment Hand made -----
 # Install ipykernel
 RUN pip install ipykernel
+RUN pip install scikit-learn
